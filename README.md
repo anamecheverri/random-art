@@ -1,3 +1,5 @@
+To run this program, just type python create_art.py
+
 # Random Art
 
 ## Description
